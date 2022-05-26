@@ -1,2 +1,1 @@
-# .github
-For profile display information
+Repo for profile display information
