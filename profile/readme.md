@@ -1,7 +1,7 @@
 # Feature Ideas
 
 ## Chat
-- [ ] Add password (optional) to chats
+- [X] Add password (optional) to chats
 - [ ] Show historical messages
 - [ ] Add personal messaging
 - [ ] Display `creator` field in chat list
