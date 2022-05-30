@@ -14,3 +14,6 @@
 ## Profile
 - [ ] Edit username
 - [ ] Change password
+
+# General
+- [X] Make mobile friendly
